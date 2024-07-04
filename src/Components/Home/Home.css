@@ -1,0 +1,20 @@
+.cardsforstatus{
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), /* Small shadow */
+                0 8px 16px rgba(0, 0, 0, 0.1); /* Larger shadow */
+   
+}
+.bgsap{
+    background-image: url("https://i.pinimg.com/736x/02/81/82/0281824f7576403f5de3f6e331ff9e83.jpg");
+    background-size: cover;
+    height: 100vh;
+background-size: 50% 100%;
+background-repeat: no-repeat;
+}
+
+.firstparthome{
+    background-image: url("../Asset/standard-quality-control-concept-m.jpg");
+background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+}

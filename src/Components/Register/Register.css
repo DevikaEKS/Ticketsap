@@ -1,0 +1,74 @@
+/* .RegisterApp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+   
+  } */
+  
+  .register-card { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    max-width: 800px; 
+    width: 100%;
+  }
+  /* .login-form {
+    padding: 20px;
+    flex: 1;
+  } */
+  
+  /* .login-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  } */
+/*   
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+   */
+/* .form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}   */
+button {
+    padding: 10px 20px;
+    background-color: #841ECC;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;   
+}  
+button:hover {
+    background-color: #841ECC;
+}  
+
+
+.logintxt{
+  color: #841ECC;  
+}
+  
+.form-group input {
+    width: 100%;
+    max-width: 300px; 
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+.boxsize{
+    max-width: 300px;
+}

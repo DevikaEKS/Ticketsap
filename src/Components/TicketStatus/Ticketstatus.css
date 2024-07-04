@@ -1,0 +1,26 @@
+.applybutton{
+    background-color:  #F65364;
+    /* width: 200px; */
+}
+.applybutton:hover{
+    background-color: #F65364;
+}
+
+.cardsforstatus{
+    background-color:  #2C3D5F;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 
+                0 8px 16px rgba(0, 0, 0, 0.1); 
+   
+}
+.depcard{
+    background-color:  #2C3D5F !important;
+    color: white;
+} 
+.firstbox{
+    background-color: white;
+    box-shadow: #f05867;
+}
+
+
+
+
